@@ -1,0 +1,5 @@
+wxPython>=4.2.1
+sounddevice>=0.4.6
+numpy>=1.24.0
+soundfile>=0.12.1
+keyboard>=0.13.5
