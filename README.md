@@ -22,6 +22,9 @@ PureBit is a specialized real-time audio processing engine developed by **Jumpin
 ## License
 Licensed under the MIT License - See the LICENSE file for details.
 
+## Download
+You can download the first version of PureBit from [here](https://github.com/DRCode22/PureBit/releases/download/1.0.0/PureBit.zip) This is a portable version.
+
 ---
 
 ## Extensibility & Addons
